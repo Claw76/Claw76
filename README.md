@@ -1,4 +1,4 @@
-### Hi there 👋
+https://img.shields.io/badge/-Obsidian%20ftw-483699?style=flat&logo=obsidian
 
 <!--
 **Claw76/Claw76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
