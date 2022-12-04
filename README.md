@@ -1,4 +1,4 @@
-Uses [![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian)](https://obsidian.md)
+[![Uses Obsidian](https://img.shields.io/badge/-Uses%20Obsidian-483699?style=flat&logo=obsidian)](https://obsidian.md)
 <!--
 **Claw76/Claw76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
